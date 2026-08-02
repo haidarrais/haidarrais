@@ -8,8 +8,7 @@
 
 - 🔭 Building with **Laravel, Vue, Go, and Rust**
 - 🌱 Into automation & tooling — webhook tunnels, scrapers, REST APIs
-- 📫 Reach me: *(add your email or LinkedIn here)*
-- ⚡ Fun fact: *(add something fun about yourself)*
+- 📫 Reach me: [haidarraisabd@gmail.com](mailto:haidarraisabd@gmail.com) · [LinkedIn](https://www.linkedin.com/in/haidar-rais-abdillah-896007157/)
 
 <br>
 
@@ -37,7 +36,7 @@
 ### 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=haidarrais&theme=tokyonight&no-frame=true&row=1&column=7" />
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=haidarrais&theme=tokyonight&no-frame=true&row=1&column=7" />
 </div>
 
 <br>
