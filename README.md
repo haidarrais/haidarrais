@@ -32,8 +32,12 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haidarrais&show_icons=true&theme=transparent&hide_border=true&hide_rank=true" alt="Haidar's GitHub stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haidarrais&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" height="150"/>
+  <img height="170em" src="https://github-readme-stats.shion.dev/api?username=haidarrais&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true" />
+  <img height="170em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=haidarrais&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</div>
+
+<div align="center">
+  <img width="100%" src="https://streak-stats.demolab.com/?user=haidarrais&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 </div>
 
 <br>
